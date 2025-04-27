@@ -1,0 +1,7 @@
+Console Input: 1
+Console Input: 2
+Console Input: 3
+Console Input: 4
+Console Input: 5
+Console Input: 5
+Console Input: 8

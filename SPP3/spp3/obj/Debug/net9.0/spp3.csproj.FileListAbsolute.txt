@@ -1,0 +1,14 @@
+D:\BSUIR_LABS\MDP\SPP3\spp3\bin\Debug\net9.0\spp3.exe
+D:\BSUIR_LABS\MDP\SPP3\spp3\bin\Debug\net9.0\spp3.deps.json
+D:\BSUIR_LABS\MDP\SPP3\spp3\bin\Debug\net9.0\spp3.runtimeconfig.json
+D:\BSUIR_LABS\MDP\SPP3\spp3\bin\Debug\net9.0\spp3.dll
+D:\BSUIR_LABS\MDP\SPP3\spp3\bin\Debug\net9.0\spp3.pdb
+D:\BSUIR_LABS\MDP\SPP3\spp3\obj\Debug\net9.0\spp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR_LABS\MDP\SPP3\spp3\obj\Debug\net9.0\spp3.AssemblyInfoInputs.cache
+D:\BSUIR_LABS\MDP\SPP3\spp3\obj\Debug\net9.0\spp3.AssemblyInfo.cs
+D:\BSUIR_LABS\MDP\SPP3\spp3\obj\Debug\net9.0\spp3.csproj.CoreCompileInputs.cache
+D:\BSUIR_LABS\MDP\SPP3\spp3\obj\Debug\net9.0\spp3.dll
+D:\BSUIR_LABS\MDP\SPP3\spp3\obj\Debug\net9.0\refint\spp3.dll
+D:\BSUIR_LABS\MDP\SPP3\spp3\obj\Debug\net9.0\spp3.pdb
+D:\BSUIR_LABS\MDP\SPP3\spp3\obj\Debug\net9.0\spp3.genruntimeconfig.cache
+D:\BSUIR_LABS\MDP\SPP3\spp3\obj\Debug\net9.0\ref\spp3.dll

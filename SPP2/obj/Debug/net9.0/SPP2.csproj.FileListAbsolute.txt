@@ -1,0 +1,14 @@
+D:\BSUIR_LABS\MDP\SPP2\bin\Debug\net9.0\SPP2.exe
+D:\BSUIR_LABS\MDP\SPP2\bin\Debug\net9.0\SPP2.deps.json
+D:\BSUIR_LABS\MDP\SPP2\bin\Debug\net9.0\SPP2.runtimeconfig.json
+D:\BSUIR_LABS\MDP\SPP2\bin\Debug\net9.0\SPP2.dll
+D:\BSUIR_LABS\MDP\SPP2\bin\Debug\net9.0\SPP2.pdb
+D:\BSUIR_LABS\MDP\SPP2\obj\Debug\net9.0\SPP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR_LABS\MDP\SPP2\obj\Debug\net9.0\SPP2.AssemblyInfoInputs.cache
+D:\BSUIR_LABS\MDP\SPP2\obj\Debug\net9.0\SPP2.AssemblyInfo.cs
+D:\BSUIR_LABS\MDP\SPP2\obj\Debug\net9.0\SPP2.csproj.CoreCompileInputs.cache
+D:\BSUIR_LABS\MDP\SPP2\obj\Debug\net9.0\SPP2.dll
+D:\BSUIR_LABS\MDP\SPP2\obj\Debug\net9.0\refint\SPP2.dll
+D:\BSUIR_LABS\MDP\SPP2\obj\Debug\net9.0\SPP2.pdb
+D:\BSUIR_LABS\MDP\SPP2\obj\Debug\net9.0\SPP2.genruntimeconfig.cache
+D:\BSUIR_LABS\MDP\SPP2\obj\Debug\net9.0\ref\SPP2.dll
